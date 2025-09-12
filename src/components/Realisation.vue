@@ -141,7 +141,7 @@
                   
                   <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-center">
                     <div class="bg-gray-100 h-32 md:h-48 rounded-lg flex items-center justify-center">
-                      <img src="" alt="" class="h-32 md:h-48 rounded-lg">
+                      <img src="../../public/5.png" alt="" class="h-32 md:h-48 rounded-lg">
                     </div>
                     <div class="bg-gray-100 h-32 md:h-48 rounded-lg flex items-center justify-center">
                       <img src="" alt="" class="h-32 md:h-48 rounded-lg">
